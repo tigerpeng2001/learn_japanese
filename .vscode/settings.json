@@ -1,0 +1,10 @@
+{
+    "yaml.schemas": {},
+    "yaml.schemaStore.enable": false,
+    "yaml.validate": false,
+    "files.associations": {
+        "朝の会話スクリプト.yaml": "yaml",
+        "*.yaml": "yaml",
+        "*.yml": "yaml"
+    }
+}

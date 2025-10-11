@@ -1,0 +1,49 @@
+title: "朝の会話スクリプト：夫の出勤まで"
+characters:
+  - id: t
+    name: "たかし"
+    role: "夫"
+  - id: n
+    name: "なお"
+    role: "妻"
+scenes:
+  - name: "起床"
+    dialogue:
+      - speaker_id: t
+        line: "なお、おはよう。もう起きてたのか。"
+      - speaker_id: n
+        line: "おはよう、たかしさん。ちょっと早く目が覚めちゃって。"
+      - speaker_id: t
+        line: "そうか。よく眠れた？"
+      - speaker_id: n
+        line: "うん、ぐっすり。たかしさんは？"
+      - speaker_id: t
+        line: "俺も大丈夫。さあ、顔洗ってくるよ。"
+  - name: "朝食中"
+    dialogue:
+      - speaker_id: n
+        line: "今日のパン、焼き加減どう？新しいトースター、いい感じかも。"
+      - speaker_id: t
+        line: "ああ、もちもちしてて美味しいよ。ありがとう。コーヒーも熱々で助かる。"
+      - speaker_id: n
+        line: "よかった。今日、何か変わった予定あるの？"
+      - speaker_id: t
+        line: "特にないかな。午後に会議があるくらい。なおは？"
+      - speaker_id: n
+        line: "私は午前中に友達と会う約束。帰りにスーパーで買い物してくるね。"
+      - speaker_id: t
+        line: "気をつけて行ってきて。"
+  - name: "出勤前"
+    dialogue:
+      - speaker_id: t
+        line: "よし、そろそろ行くよ。"
+      - speaker_id: n
+        line: "もうそんな時間？お弁当持った？"
+      - speaker_id: t
+        line: "あ、危ない。ありがとう、忘れるところだった。"
+      - speaker_id: n
+        line: "ふふ。傘はいらないみたいね。"
+      - speaker_id: t
+        line: "うん、晴れてる。じゃあ、行ってきます。"
+      - speaker_id: n
+        line: "行ってらっしゃい！気をつけてね。"

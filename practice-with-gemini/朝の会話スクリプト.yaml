@@ -1,4 +1,7 @@
-title: "朝の会話スクリプト：夫の出勤まで"
+title:
+  japanese: "朝の会話スクリプト：夫の出勤まで"
+  furigana: "あさのかいわスクリプト：おっとのしゅっきんまで"
+  translation: "Morning Conversation Script: Until Husband Leaves for Work"
 characters:
   - id: t
     name: "たかし"
@@ -7,43 +10,86 @@ characters:
     name: "なお"
     role: "妻"
 scenes:
-  - name: "起床"
+  - name:
+      japanese: "起床"
+      furigana: "きしょう"
+      translation: "Waking Up"
     dialogue:
       - speaker_id: t
         line: "なお、おはよう。もう起きてたのか。"
+        furigana: "なお、おはよう。もうおきてたのか。"
+        translation: "Nao, good morning. You're already up?"
       - speaker_id: n
         line: "おはよう、たかしさん。ちょっと早く目が覚めちゃって。"
+        furigana: "おはよう、たかしさん。ちょっとはやくめがさめちゃって。"
+        translation: "Good morning, Takashi. I woke up a little early."
       - speaker_id: t
         line: "そうか。よく眠れた？"
+        furigana: "そうか。よくねむれた？"
+        translation: "I see. Did you sleep well?"
       - speaker_id: n
         line: "うん、ぐっすり。たかしさんは？"
+        furigana: "うん、ぐっすり。たかしさんは？"
+        translation: "Yeah, soundly. How about you, Takashi?"
       - speaker_id: t
         line: "俺も大丈夫。さあ、顔洗ってくるよ。"
-  - name: "朝食中"
+        furigana: "おれもだいじょうぶ。さあ、かおあらってくるよ。"
+        translation: "I'm fine too. Alright, I'm going to go wash my face."
+  - name:
+      japanese: "朝食中"
+      furigana: "ちょうしょくちゅう"
+      translation: "During Breakfast"
     dialogue:
       - speaker_id: n
         line: "今日のパン、焼き加減どう？新しいトースター、いい感じかも。"
+        furigana: "きょうのパン、やきかげんどう？あたらしいトースター、いいかんじかも。"
+        translation: "How's the toast today? The new toaster might be good."
       - speaker_id: t
         line: "ああ、もちもちしてて美味しいよ。ありがとう。コーヒーも熱々で助かる。"
+        furigana: "ああ、もちもちしてておいしいよ。ありがとう。コーヒーもあつあつでたすかる。"
+        translation: "Ah, it's chewy and delicious. Thank you. The hot coffee helps too."
       - speaker_id: n
         line: "よかった。今日、何か変わった予定あるの？"
+        furigana: "よかった。きょう、なにかかわったよていあるの？"
+        translation: "That's good. Do you have any unusual plans today?"
       - speaker_id: t
         line: "特にないかな。午後に会議があるくらい。なおは？"
+        furigana: "とくにないかな。ごごにかいぎがあるくらい。なおは？"
+        translation: "Nothing special. Just a meeting in the afternoon. How about you, Nao?"
       - speaker_id: n
         line: "私は午前中に友達と会う約束。帰りにスーパーで買い物してくるね。"
+        furigana: "わたしはごぜんちゅうにともだちとあうやくそく。かえりにスーパーでかいものしてくるね。"
+        translation: "I have plans to meet a friend in the morning. I'll pick up groceries on the way back."
       - speaker_id: t
         line: "気をつけて行ってきて。"
-  - name: "出勤前"
+        furigana: "きをつけていってきて。"
+        translation: "Be careful and have a good time."
+  - name:
+      japanese: "出勤前"
+      furigana: "しゅっきんまえ"
+      translation: "Before Leaving for Work"
     dialogue:
       - speaker_id: t
         line: "よし、そろそろ行くよ。"
+        furigana: "よし、そろそろいくよ。"
+        translation: "Alright, I'm going to leave soon."
       - speaker_id: n
         line: "もうそんな時間？お弁当持った？"
+        furigana: "もうそんなじかん？おべんとうもった？"
+        translation: "Is it that time already? Did you take your lunch box?"
       - speaker_id: t
         line: "あ、危ない。ありがとう、忘れるところだった。"
+        furigana: "あ、あぶない。ありがとう、わすれるところだった。"
+        translation: "Ah, that was close. Thanks, I almost forgot."
       - speaker_id: n
         line: "ふふ。傘はいらないみたいね。"
+        furigana: "ふふ。かさはいらないみたいね。"
+        translation: "Hehe. Looks like you won't need an umbrella."
       - speaker_id: t
         line: "うん、晴れてる。じゃあ、行ってきます。"
+        furigana: "うん、はれてる。じゃあ、いってきます。"
+        translation: "Yep, it's sunny. Well, I'm heading out."
       - speaker_id: n
         line: "行ってらっしゃい！気をつけてね。"
+        furigana: "いってらっしゃい！きをつけてね。"
+        translation: "Have a good day! Be careful."
